@@ -23,40 +23,6 @@ Welcome to my **100 Days of Data Structures & Algorithms** repository! This proj
 
 ---
 
-## 📊 Progress Tracker
-
-### 🏗️ Phase 1: Foundation & Object-Oriented Design
-| Day | # | Problem Title | Difficulty | Key Topics | Time | Space | Solution | Status |
-| :---: | :---: | :--- | :---: | :--- | :---: | :---: | :--- | :---: |
-| **001** | `1603` | [Design Parking System](https://leetcode.com/problems/design-parking-system/) | 🟢 **Easy** | Array, Design, Simulation | $\mathcal{O}(1)$ | $\mathcal{O}(1)$ | [Java](./1603.design-parking-system.java) | ✅ Done |
-
----
-
-## 🛠️ Local Setup & Execution
-
-Solutions are implemented in **Java (Open JDK)**. To compile and run any code locally:
-
-```bash
-# Compile a Java solution file
-javac 1603.design-parking-system.java
-
-# Run if a test main method is attached
-java ParkingSystem
-```
-
-## 🗺️ Roadmap & Categories
-- [x] **Design & Simulation**
-- [ ] Arrays & Hashing
-- [ ] Two Pointers & Sliding Window
-- [ ] Linked Lists & Fast/Slow Pointers
-- [ ] Binary Search & Divide and Conquer
-- [ ] Trees, BSTs & Tries
-- [ ] Heaps & Priority Queues
-- [ ] Graphs (BFS / DFS / Union-Find)
-- [ ] Dynamic Programming & Memoization
-
----
-
 <div align="center">
 <i>"Success is the sum of small efforts, repeated day in and day out."</i><br>
 ⭐️ Star this repository if you find it helpful or inspiring!

@@ -18,5 +18,6 @@ public class cf_2241A{
                 System.out.println("NO");
             }
         }
+        sc.close();
     }
 }
